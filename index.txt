@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hii da sant
-=======
-hii baddu
->>>>>>> c9ab60040198e03461973890ed4846f956aa25be
